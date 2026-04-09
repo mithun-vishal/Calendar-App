@@ -1,6 +1,6 @@
 import { MONTHS, MONTH_PHOTOS } from './constants'
 import type { CalendarStyles } from './types'
-import DiagonalSVG from './diagonalSgv'
+import DiagonalSVG from './diagonalSGV'
 
 interface Props {
   month: number
